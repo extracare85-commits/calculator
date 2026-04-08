@@ -60,3 +60,14 @@ button{
     background: #4CAF50;
     color: white;
 }
+#creator{
+    text-align: right;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+    height: 55px;
+    color: black;
+    padding-right:2px;
+
+
+}
